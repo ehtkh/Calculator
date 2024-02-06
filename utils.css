@@ -1,0 +1,26 @@
+.text-center {
+    text-align: center;
+    margin-top: 20px;
+    color: seashell;
+}
+
+.bg-red {
+    background: red;
+}
+
+.mx-auto {
+    margin: auto;
+}
+
+.flex {
+    display: flex;
+    margin-top: 30px;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.items-center {
+    align-items: center;
+}
